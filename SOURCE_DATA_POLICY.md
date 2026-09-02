@@ -6,4 +6,4 @@ The public input resources, accession identifiers, modalities and source URLs ar
 
 The included `source_data/` tables are frozen outputs from the documented computational workflow. They are sufficient for figure-level numerical audit, but they do not reconstruct every intermediate object required by the historical provenance scripts. In particular, this archive does not redistribute AnnData objects, source count matrices, protected participant-level clinical information or vendor data.
 
-OEP001105 is hosted through BioSino/NODE; it is not a ProteomeXchange accession. The release manifest and SHA-256 checksum file identify the versioned materials included in this archive.
+OEP001105 is hosted through BioSino/NODE; it is not a ProteomeXchange accession. The release manifest identifies the versioned materials included in this archive.

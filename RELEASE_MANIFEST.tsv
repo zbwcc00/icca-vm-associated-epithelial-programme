@@ -8,4 +8,3 @@ supplementary_tables	supplementary_tables/	Supplementary Tables S1–S4d
 data_inventory	metadata/data_accessions.tsv	Machine-readable public input accession inventory
 claim_audit	metadata/04_claim_to_evidence_audit.tsv	Claim-level evidence boundary audit
 provenance_scripts	analysis/	Historical figure, assembly and Word-export provenance scripts
-integrity_manifest	SHA256SUMS.tsv	SHA-256 hashes verified by scripts/verify_release.py
