@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+type: software
+title: "iCCA VM-associated epithelial programme: reproducibility release"
+version: 1.0.0
+date-released: 2026-09-02
+abstract: "Reproducible manuscript assets for a patient-aware multi-omic analysis of a vasculogenic-mimicry-associated epithelial transcriptional programme in intrahepatic cholangiocarcinoma."
+repository-code: "https://github.com/zbwcc00/icca-vm-associated-epithelial-programme"
+license: MIT
+authors:
+  - family-names: Zheng
+    given-names: Bowen
+    orcid: "https://orcid.org/0009-0006-8304-7905"
+  - family-names: Xie
+    given-names: Guanghua
+    orcid: "https://orcid.org/0000-0002-6461-6707"
+  - family-names: Kong
+    given-names: Depei
+    orcid: "https://orcid.org/0009-0008-1904-7198"
+  - family-names: Chen
+    given-names: Jianlei
+    orcid: "https://orcid.org/0009-0007-5316-856X"
+  - family-names: Wang
+    given-names: Ye
+    orcid: "https://orcid.org/0009-0000-1282-6123"
+  - family-names: Li
+    given-names: Hao
+    orcid: "https://orcid.org/0009-0007-7394-1273"
