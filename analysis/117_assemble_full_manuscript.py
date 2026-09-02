@@ -28,7 +28,7 @@ def final_references() -> str:
     return "\n".join(output)
 
 
-title = "A patient-aware multi-omic analysis of a vasculogenic-mimicry-associated epithelial transcriptional programme in intrahepatic cholangiocarcinoma"
+title = "Cross-cohort definition and multi-omic characterization of a six-gene vasculogenic-mimicry-associated epithelial programme in intrahepatic cholangiocarcinoma"
 
 parts = [
     f"# {title}",
@@ -61,10 +61,10 @@ parts = [
     section_body("06_discussion_draft.md", drop_editorial_notes=True),
     "",
     "## Data availability",
-    "All analyses use de-identified public resources. Accession-level source datasets, cohort eligibility records and sample-selection tables are listed in Supplementary Tables S1–S3 and the machine-readable repository inventory. Public raw and processed data remain available from GEO, BioStudies, BioSino/NODE accession OEP001105 and the originating repositories under their respective access conditions. The manuscript release includes final figures, supplementary figures, supplementary tables, panel-level source data, analysis provenance scripts, execution manifests and a source-data policy; it is archived at Zenodo (release v1.0.1; concept DOI: 10.5281/zenodo.22255463).",
+    "All analyses use de-identified public resources. Accession-level source datasets, cohort eligibility records and sample-selection tables are listed in Supplementary Tables S1–S3 and the machine-readable repository inventory. Public raw and processed data remain available from GEO, BioStudies, BioSino/NODE accession OEP001105 and the originating repositories under their respective access conditions. The manuscript release includes final figures, supplementary figures, supplementary tables, panel-level source data, analysis provenance scripts, execution manifests and a source-data policy; it is archived at Zenodo (release v1.0.5; concept DOI: 10.5281/zenodo.22255463).",
     "",
     "## Code availability",
-    "The repository release contains analysis provenance scripts, panel-level source data, execution manifests, fixed random seeds and a pinned environment specification. The full upstream raw-data processing workflow is not redistributed; provenance scripts that require frozen project result tables are labelled accordingly. Code and release materials are available at https://github.com/zbwcc00/icca-vm-associated-epithelial-programme (release v1.0.1; Zenodo concept DOI: 10.5281/zenodo.22255463).",
+    "The repository release contains analysis provenance scripts, panel-level source data, execution manifests, fixed random seeds and a pinned environment specification. The full upstream raw-data processing workflow is not redistributed; provenance scripts that require frozen project result tables are labelled accordingly. Code and release materials are available at https://github.com/zbwcc00/icca-vm-associated-epithelial-programme (release v1.0.5; Zenodo concept DOI: 10.5281/zenodo.22255463).",
     "",
     "## Ethics statement",
     "This study used de-identified public data generated under the ethics approvals of the originating studies. No new human samples, interventions or identifiable clinical data were collected by the authors.",
@@ -88,7 +88,7 @@ parts = [
     section_body("01_figure_legends_draft.md"),
     "",
     "## Supplementary materials guide",
-    "Supplementary Figures S1–S15 provide quality-control, scoring, source-RNA, bulk, multi-omic, genomic, treatment-response, survival, spatial, robustness and virtual-perturbation audits. Their exact panel descriptions and limitations are included in the Figure legends section above. Supplementary source tables, panel-level source data and the claim-level evidence audit are included in the versioned public repository release (https://github.com/zbwcc00/icca-vm-associated-epithelial-programme, v1.0.1; Zenodo concept DOI: 10.5281/zenodo.22255463).",
+    "Supplementary Figures S1–S15 provide quality-control, scoring, source-RNA, bulk, multi-omic, genomic, treatment-response, survival, spatial, robustness and virtual-perturbation audits. Their exact panel descriptions and limitations are included in the Figure legends section above. Supplementary source tables, panel-level source data and the claim-level evidence audit are included in the versioned public repository release (https://github.com/zbwcc00/icca-vm-associated-epithelial-programme, v1.0.5; Zenodo concept DOI: 10.5281/zenodo.22255463).",
     "",
     "## References",
     final_references(),

@@ -2,9 +2,9 @@ cff-version: 1.2.0
 message: "If you use this repository, please cite it as below."
 type: software
 title: "iCCA VM-associated epithelial programme: reproducibility release"
-version: 1.0.1
-date-released: 2026-09-02
-abstract: "Auditable manuscript assets for a patient-aware multi-omic analysis of a vasculogenic-mimicry-associated epithelial transcriptional programme in intrahepatic cholangiocarcinoma."
+version: 1.0.5
+date-released: 2026-09-03
+abstract: "Auditable manuscript assets for the cross-cohort definition and multi-omic characterization of a six-gene vasculogenic-mimicry-associated epithelial programme in intrahepatic cholangiocarcinoma."
 repository-code: "https://github.com/zbwcc00/icca-vm-associated-epithelial-programme"
 license: MIT
 authors:
