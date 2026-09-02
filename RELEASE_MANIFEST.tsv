@@ -1,0 +1,8 @@
+item	relative_path	purpose
+driver	analysis/130_build_final_submission_assets.py	Rebuilds Fig. 1–6, Fig. S1–S15 and the assembled Markdown manuscript
+figure_1	analysis/114_build_manuscript_figures_v1.py	Generates the final Fig. 1 asset
+figures_2_to_4	analysis/115_rebuild_manuscript_figures_2_4.py	Generates reconstructed Fig. 2–4 assets
+figures_5_to_6	analysis/116_rebuild_figures_5_6_and_supplementary.py	Generates reconstructed Fig. 5–6 and supplementary assets
+supplement_s15	analysis/129_build_supplementary_figure_s15.py	Generates supplementary Fig. S15
+assembly	analysis/117_assemble_full_manuscript.py	Assembles the source manuscript
+word_export	analysis/126_build_submission_docx.js	Exports an aspect-ratio-preserving Word manuscript
