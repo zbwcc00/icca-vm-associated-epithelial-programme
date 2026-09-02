@@ -28,4 +28,4 @@ Create the pinned Python environment from `environment.lock.yml`. To use the pro
 
 ## Citation
 
-Please cite the GitHub release `v1.0.5` and the corresponding Zenodo record. The concept DOI is `10.5281/zenodo.22255463`; the version DOI will be assigned when this release is archived by Zenodo.
+Please cite the GitHub release `v1.0.5` and the corresponding Zenodo record. The version DOI is `10.5281/zenodo.22258978`; the concept DOI is `10.5281/zenodo.22255463`.

@@ -1,5 +1,6 @@
 item	relative_path	purpose
 release_version	v1.0.5	Auditable manuscript-asset release
+version_doi	10.5281/zenodo.22258978	Zenodo version DOI
 manuscript	manuscript/	Assembled Markdown manuscript and submission Word file
 main_figures	figures/main/	Final Fig. 1–6 in PDF and PNG
 supplementary_figures	figures/supplementary/	Final Fig. S1–S15 in PDF and PNG
