@@ -1,0 +1,5 @@
+feature	n_altered	median_difference
+KRAS mutation	43	0.37329241577356764
+BAP1 mutation	31	-0.2841999512919259
+MYC gain	20	-0.6728763273405959
+MCL1 gain	22	-0.37010241047385006

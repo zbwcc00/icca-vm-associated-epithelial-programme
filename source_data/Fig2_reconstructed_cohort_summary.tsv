@@ -1,0 +1,4 @@
+cohort	patients	operational_malignant_epithelial_cells	triple_consensus_cells	triple_consensus_fraction	VM_high_candidate_cells_after_endothelial_control
+GSE138709	4	12447	497	0.039929300232987866	435
+GSE181878	1	2840	228	0.08028169014084507	220
+GSE125449	10	1888	294	0.15572033898305085	281

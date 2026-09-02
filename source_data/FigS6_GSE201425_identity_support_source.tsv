@@ -1,0 +1,5 @@
+state	tissue_cells_230093	tissue_cells_357818	external_identity_support	criterion	supported
+C1QC_TAM_stress_associated	947	319	supported_in_both_iCCA_patients	high-confidence reference-transfer cells >=20 in each iCCA patient's tissue libraries	1
+FCGR3A_macrophage_like	17	12	indeterminate_or_not_supported	high-confidence reference-transfer cells >=20 in each iCCA patient's tissue libraries	0
+HLAII_APC_like	76	36	supported_in_both_iCCA_patients	high-confidence reference-transfer cells >=20 in each iCCA patient's tissue libraries	1
+IL1B_CCL3_inflammatory_monocyte_like	283	34	supported_in_both_iCCA_patients	high-confidence reference-transfer cells >=20 in each iCCA patient's tissue libraries	1

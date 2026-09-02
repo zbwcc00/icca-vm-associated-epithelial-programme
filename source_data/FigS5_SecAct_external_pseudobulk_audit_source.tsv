@@ -1,0 +1,4 @@
+status	n_groups
+has_externally_consistent_source_RNA_member	30
+tested_but_no_member_passed_external_restriction_rule	28
+indeterminate_only_members_from_nonreplicated_source_state	8

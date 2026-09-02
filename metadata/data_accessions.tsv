@@ -1,0 +1,15 @@
+accession	resource	modality	manuscript_role	url	redistributed_in_release
+GSE138709	GEO	scRNA-seq	VM-like state discovery	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE138709	no
+GSE181878	GEO	scRNA-seq	single-patient feasibility	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE181878	no
+GSE125449	GEO	scRNA-seq	external state-direction cohort	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE125449	no
+GSE189903	GEO	scRNA-seq	myeloid/stromal reference	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE189903	no
+GSE201425	GEO	scRNA-seq	external myeloid identity and source-RNA compatibility audit	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE201425	no
+GSE32225	GEO	bulk expression	bulk directional association cohort	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE32225	no
+GSE107943	GEO	bulk expression	bulk directional association cohort	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE107943	no
+GSE26566	GEO	bulk expression	bulk directional association cohort	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE26566	no
+GSE255058	GEO	bulk RNA-seq	treatment-response audit	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE255058	no
+GSE244807	GEO	bulk expression and outcome	outcome sensitivity audit	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE244807	no
+GSE316402	GEO	spatial transcriptomics	BTC spatial extrapolation audit	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE316402	no
+OEP001105	BioSino/NODE	matched transcriptomic proteomic phosphopeptide WES and CNV	cross-layer and genomic-context analyses	https://www.biosino.org/node/experiment/detail/OEP001105	no
+DepMap Public	Broad Institute	cell-line expression and CRISPR	pharmacogenomic audit	https://depmap.org/portal/download/	no
+PRISM 23Q2	Broad Institute	cell-line drug response	pharmacogenomic audit	https://depmap.org/portal/download/	no

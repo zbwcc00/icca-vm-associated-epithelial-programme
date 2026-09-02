@@ -1,0 +1,1 @@
+Supplementary tables generated from frozen analysis outputs. Table S1 reports strict-QC and doublet summaries; Table S2 reports cohort and pseudobulk design; Table S3 reports analysis rules, testing families and missingness; Table S4a-d report robustness source data.

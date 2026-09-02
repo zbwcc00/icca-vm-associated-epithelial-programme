@@ -1,0 +1,4 @@
+cohort	patients_in_cohort	eligible_paired_libraries	pseudobulks	minimum_VM_high_cells	edgeR_design	triple_consensus_rule	missing_anchor_rule	triple_consensus_fraction	role
+GSE138709	4	5	10	8	~ sample_id + vm_group	UCell, AUCell and module score > within-cohort 80th percentile; endothelial-control score <= 90th percentile	At least 4 of 6 anchors measured	3.99%	receiver-side discovery; paired-library state association
+GSE181878	1	not used for receiver-side inference	not applicable	not applicable	not applicable	UCell, AUCell and module score > within-cohort 80th percentile; endothelial-control score <= 90th percentile	At least 4 of 6 anchors measured	8.03%	single-patient feasibility evidence
+GSE125449	10	5	10	5	~ library_id + vm_group	UCell, AUCell and module score > within-cohort 80th percentile; endothelial-control score <= 90th percentile	At least 4 of 6 anchors measured	15.57%	receiver-side external cohort; paired-library state association

@@ -1,8 +1,11 @@
 item	relative_path	purpose
-driver	analysis/130_build_final_submission_assets.py	Rebuilds Fig. 1–6, Fig. S1–S15 and the assembled Markdown manuscript
-figure_1	analysis/114_build_manuscript_figures_v1.py	Generates the final Fig. 1 asset
-figures_2_to_4	analysis/115_rebuild_manuscript_figures_2_4.py	Generates reconstructed Fig. 2–4 assets
-figures_5_to_6	analysis/116_rebuild_figures_5_6_and_supplementary.py	Generates reconstructed Fig. 5–6 and supplementary assets
-supplement_s15	analysis/129_build_supplementary_figure_s15.py	Generates supplementary Fig. S15
-assembly	analysis/117_assemble_full_manuscript.py	Assembles the source manuscript
-word_export	analysis/126_build_submission_docx.js	Exports an aspect-ratio-preserving Word manuscript
+release_version	v1.0.1	Auditable manuscript-asset release
+manuscript	manuscript/	Assembled Markdown manuscript and submission Word file
+main_figures	figures/main/	Final Fig. 1–6 in PDF and PNG
+supplementary_figures	figures/supplementary/	Final Fig. S1–S15 in PDF and PNG
+panel_source_data	source_data/	De-identified numerical tables for displayed panels
+supplementary_tables	supplementary_tables/	Supplementary Tables S1–S4d
+data_inventory	metadata/data_accessions.tsv	Machine-readable public input accession inventory
+claim_audit	metadata/04_claim_to_evidence_audit.tsv	Claim-level evidence boundary audit
+provenance_scripts	analysis/	Historical figure, assembly and Word-export provenance scripts
+integrity_manifest	SHA256SUMS.tsv	SHA-256 hashes verified by scripts/verify_release.py
