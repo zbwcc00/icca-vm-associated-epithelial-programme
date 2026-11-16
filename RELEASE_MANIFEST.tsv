@@ -1,6 +1,7 @@
 item	relative_path	purpose
 release_version	1.1.0	Corrected complete-six-gene single-source-of-truth release
-version_doi	PENDING_ZENODO_VERSION_DOI	Replace after new Zenodo version is published
+version_doi	10.5281/zenodo.24274159	Corrected Zenodo v1.1.0 archive
+concept_doi	10.5281/zenodo.22255463	All-version Zenodo concept DOI
 clean_manuscript	manuscript/Manuscript_Revised_Clean.docx	Corrected clean manuscript
 main_figures	figures/main/	Revised Fig. 1–6 assets
 supplementary_figures	figures/supplementary_revised/	Revised Fig. S1–S19 assets

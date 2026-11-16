@@ -20,6 +20,6 @@ Corrected SecAct funnels are 657 → 268 → 58 → 26 at q80 and 657 → 244 �
 
 This is an auditable manuscript-asset and corrected-source-data release. Public raw and processed matrices are not redistributed. Accessions are listed in `metadata/data_accessions.tsv`. Some provenance scripts require the frozen upstream results directory and are not a one-command raw-data reanalysis.
 
-## DOI status
+## Archived release
 
-This is a staging release for the next GitHub and Zenodo version. The previous v1.0.5 DOI must not be cited as the corrected revision archive. After the new Zenodo version is published, replace `PENDING_ZENODO_VERSION_DOI` in this README, `CITATION.cff`, `RELEASE_MANIFEST.tsv` and the manuscript availability statements with the real version DOI.
+The corrected analysis release is archived as Zenodo v1.1.0 (record: https://zenodo.org/records/24274159; version DOI: [10.5281/zenodo.24274159](https://doi.org/10.5281/zenodo.24274159); concept DOI: [10.5281/zenodo.22255463](https://doi.org/10.5281/zenodo.22255463)). The corresponding GitHub release is [v1.1.0](https://github.com/zbwcc00/icca-vm-associated-epithelial-programme/releases/tag/v1.1.0).
