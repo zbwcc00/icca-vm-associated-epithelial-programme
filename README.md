@@ -22,4 +22,4 @@ This is an auditable manuscript-asset and corrected-source-data release. Public 
 
 ## Archived release
 
-This corrected analysis release is v1.1.1. Cite the all-version Zenodo concept DOI [10.5281/zenodo.22255463](https://doi.org/10.5281/zenodo.22255463); it resolves to the latest immutable release. The corresponding GitHub release is [v1.1.1](https://github.com/zbwcc00/icca-vm-associated-epithelial-programme/releases/tag/v1.1.1).
+This corrected analysis release is v1.1.2. Cite the all-version Zenodo concept DOI [10.5281/zenodo.22255463](https://doi.org/10.5281/zenodo.22255463); it resolves to the latest immutable release. The corresponding GitHub release is [v1.1.1](https://github.com/zbwcc00/icca-vm-associated-epithelial-programme/releases/tag/v1.1.2).

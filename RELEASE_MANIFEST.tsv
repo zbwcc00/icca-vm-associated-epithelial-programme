@@ -1,5 +1,5 @@
 item	relative_path	purpose
-release_version	1.1.1	Corrected complete-six-gene single-source-of-truth release
+release_version	1.1.2	Corrected complete-six-gene single-source-of-truth release
 citation_doi	10.5281/zenodo.22255463	All-version Zenodo concept DOI resolving to the latest immutable release
 clean_manuscript	manuscript/Manuscript_Revised_Clean.docx	Corrected clean manuscript
 main_figures	figures/main/	Revised Fig. 1–6 assets
