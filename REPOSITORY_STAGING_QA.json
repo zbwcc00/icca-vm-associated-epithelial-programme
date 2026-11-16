@@ -1,8 +1,9 @@
 {
-  "status": "released_and_doi_verified",
+  "status": "ready_for_v1.1.1_release",
   "findings": [],
   "file_count": 309,
-  "doi_status": "10.5281/zenodo.24274159",
-  "zenodo_record": "https://zenodo.org/records/24274159",
-  "concept_doi": "10.5281/zenodo.22255463"
+  "doi_status": "concept_doi_verified",
+  "zenodo_landing_page": "https://doi.org/10.5281/zenodo.22255463",
+  "concept_doi": "10.5281/zenodo.22255463",
+  "release_version": "v1.1.1"
 }

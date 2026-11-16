@@ -1,14 +1,14 @@
 cff-version: 1.2.0
-message: "If you use this corrected repository release, cite Zenodo v1.1.0 (10.5281/zenodo.24274159)."
+message: "If you use this corrected repository release, cite the Zenodo concept DOI 10.5281/zenodo.22255463."
 type: software
 title: "Cross-cohort definition and multi-omic characterization of a six-gene VM-related epithelial transcriptional programme in intrahepatic cholangiocarcinoma"
-version: 1.1.0
+version: 1.1.1
 date-released: 2026-11-16
 abstract: "Corrected auditable manuscript assets and source tables generated from the complete six-gene raw-UMI reconstruction used as the Reviewer 3 single source of truth."
 repository-code: "https://github.com/zbwcc00/icca-vm-associated-epithelial-programme"
-repository-artifact: "https://doi.org/10.5281/zenodo.24274159"
-doi: "10.5281/zenodo.24274159"
-url: "https://zenodo.org/records/24274159"
+repository-artifact: "https://doi.org/10.5281/zenodo.22255463"
+doi: "10.5281/zenodo.22255463"
+url: "https://doi.org/10.5281/zenodo.22255463"
 license: MIT
 authors:
   - family-names: Zheng
