@@ -1,0 +1,1 @@
+Supplementary Table S7 contains Reviewer 3 threshold, de novo anchor-ablation, corrected pseudobulk, SecAct, phosphopeptide and genomic reporting outputs. S7j documents restoration of MMP2, MMP9 and LAMC2 from the original GSE138709 per-library raw UMI matrices.

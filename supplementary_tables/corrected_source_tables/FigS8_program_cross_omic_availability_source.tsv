@@ -1,0 +1,5 @@
+program	left_layer	right_layer	n	rho	p_value	fdr_bh_within_program	pair
+VM	RNA_log2TPM	protein_NA	208	0.7091954574792104	4.170077287837589e-33	4.170077287837589e-33	RNA_log2TPM → protein_NA
+VM	protein_NA	protein_impute	208	1.0	0.0	0.0	protein_NA → protein_impute
+endothelial_control	RNA_log2TPM	protein_NA	208	0.5782486011318962	5.904630232550066e-20	5.904630232550066e-20	RNA_log2TPM → protein_NA
+endothelial_control	protein_NA	protein_impute	208	0.9938377793068868	9.080839776171348e-199	1.816167955234269e-198	protein_NA → protein_impute

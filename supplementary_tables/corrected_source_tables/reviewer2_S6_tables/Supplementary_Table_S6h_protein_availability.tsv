@@ -1,0 +1,7 @@
+layer	program	gene	available	nonmissing_samples	quantified_fraction_of_strict_RNA_protein_set
+protein_NA	VM_anchor	CDH5	True	208	1.0
+protein_NA	VM_anchor	EPHA2	True	208	1.0
+protein_NA	VM_anchor	MCAM	True	208	1.0
+protein_NA	VM_anchor	MMP2	True	208	1.0
+protein_NA	VM_anchor	MMP9	True	208	1.0
+protein_NA	VM_anchor	LAMC2	True	208	1.0

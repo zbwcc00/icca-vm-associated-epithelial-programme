@@ -1,0 +1,7 @@
+cohort	metric	n_paired_patients	paired_patient_Wilcoxon_W	paired_patient_p	median_patient_difference_high_minus_remainder
+GSE138709	n_counts	4	2.0	0.375	-1268.25
+GSE138709	n_genes	4	3.0	0.625	-132.25
+GSE138709	pct_mito	4	3.0	0.625	0.4457516530795109
+GSE125449	n_counts	9	6.0	0.0546875	-3209.0
+GSE125449	n_genes	9	7.0	0.07421875	-980.5
+GSE125449	pct_mito	9	15.0	0.42578125	0.6585487881378076

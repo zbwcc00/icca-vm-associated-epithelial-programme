@@ -1,0 +1,13 @@
+cohort	adjustment	candidate_set	groups	spearman_zscore_unadjusted_vs_adjusted	same_beta_direction_fraction	positive_adjusted	nominal_positive_adjusted	design_condition_number	residual_df_design
+GSE138709	EMT_Hallmark_anchor_excluded	all_657	657	0.869030100968454	0.856925418569254	381	307	6.06055854628584	2
+GSE138709	EMT_Hallmark_anchor_excluded	corrected_q80_external_26	26	0.448205128205128	1	26	26	6.06055854628584	2
+GSE138709	Hypoxia_Hallmark_anchor_excluded	all_657	657	0.985656543755761	0.952815829528158	356	277	5.82658941543074	2
+GSE138709	Hypoxia_Hallmark_anchor_excluded	corrected_q80_external_26	26	0.974700854700855	1	26	25	5.82658941543074	2
+GSE138709	ECM_Reactome_anchor_excluded	all_657	657	0.94377250903916	0.904109589041096	352	273	5.51678498432099	2
+GSE138709	ECM_Reactome_anchor_excluded	corrected_q80_external_26	26	0.813333333333333	1	26	25	5.51678498432099	2
+GSE125449	EMT_Hallmark_anchor_excluded	all_657	657	0.947510207031537	0.910197869101979	352	259	7.81456376557212	3
+GSE125449	EMT_Hallmark_anchor_excluded	corrected_q80_external_26	26	0.804444444444444	0.961538461538462	25	25	7.81456376557212	3
+GSE125449	Hypoxia_Hallmark_anchor_excluded	all_657	657	0.85074439988477	0.824961948249619	324	230	7.73216516475516	3
+GSE125449	Hypoxia_Hallmark_anchor_excluded	corrected_q80_external_26	26	0.738119658119658	0.961538461538462	25	21	7.73216516475516	3
+GSE125449	ECM_Reactome_anchor_excluded	all_657	657	0.908647871714175	0.86910197869102	339	227	7.97221782373991	3
+GSE125449	ECM_Reactome_anchor_excluded	corrected_q80_external_26	26	0.731282051282051	0.961538461538462	25	23	7.97221782373991	3

@@ -1,0 +1,3 @@
+feature	n	rho	p_value	rho_ci95_low	rho_ci95_high	ci_method
+coding nonsynonymous mutation burden	249	-0.268279579465002	1.7786849835251642e-05	-0.37992482287898505	-0.14893031598107126	Fisher-z approximation
+fraction of genes with non-diploid discrete CNV	249	-0.28416800153102245	5.218620006796707e-06	-0.3945462926293278	-0.16570551653926843	Fisher-z approximation

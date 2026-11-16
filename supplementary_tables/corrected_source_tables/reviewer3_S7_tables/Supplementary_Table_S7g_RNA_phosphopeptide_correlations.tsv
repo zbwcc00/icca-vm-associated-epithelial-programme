@@ -1,0 +1,7 @@
+gene	n	rho	p_value	fdr_bh_within_pair	rho_ci95_low	rho_ci95_high	availability	ci_method
+CDH5	0						not_available	not_applicable
+EPHA2	107	0.6677148846960167	3.995101026514906e-15	5.992651539772359e-15	0.5472294566274749	0.7610890561850293	measured	Fisher-z approximation
+MCAM	208	0.5207496546169315	7.452197439548429e-16	2.2356592318645286e-15	0.4140405516894992	0.6133397315136297	measured	Fisher-z approximation
+MMP2	0						not_available	not_applicable
+MMP9	0						not_available	not_applicable
+LAMC2	107	0.46517369070710635	4.4606931004835537e-07	4.4606931004835537e-07	0.3019858019549808	0.6018761246145165	measured	Fisher-z approximation

@@ -1,0 +1,5 @@
+subcluster_r040	fine_state	fine_state_confidence	fine_state_provisional_role	cells_1C	cells_2C	cells_3C	patients_with_at_least_20_cells	coverage_passes	eligible_for_state_specific_secact
+0	C1QC_TAM_stress_associated	moderate	priority_receiver_candidate	79	104	116	3	True	True
+4	FCGR3A_macrophage_like	moderate	priority_receiver_candidate	102	148	203	3	True	True
+5	HLAII_APC_like	moderate	priority_receiver_candidate	56	58	89	3	True	True
+6	IL1B_CCL3_inflammatory_monocyte_like	moderate	priority_receiver_candidate	33	69	159	3	True	True

@@ -1,0 +1,10 @@
+cohort	category	n_cells	fraction
+GSE138709	Preliminary high-score	1535	0.12332288904957017
+GSE138709	Endothelial-control excluded	204	0.016389491443721378
+GSE138709	Final operational high-score	1331	0.1069333976058488
+GSE181878	Preliminary high-score	228	0.08028169014084507
+GSE181878	Endothelial-control excluded	8	0.0028169014084507044
+GSE181878	Final operational high-score	220	0.07746478873239436
+GSE125449	Preliminary high-score	296	0.15677966101694915
+GSE125449	Endothelial-control excluded	19	0.010063559322033898
+GSE125449	Final operational high-score	277	0.14671610169491525

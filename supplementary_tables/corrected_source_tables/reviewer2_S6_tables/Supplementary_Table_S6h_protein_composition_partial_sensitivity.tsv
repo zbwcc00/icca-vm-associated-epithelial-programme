@@ -1,0 +1,3 @@
+analysis	n	rho_partial	p_value
+RNA-protein Spearman	208	0.7091954574792104	4.170077287837593e-33
+RNA-protein partial Spearman adjusted for endothelial RNA composition proxy	208	0.687792375435396	1.7630572289290255e-30

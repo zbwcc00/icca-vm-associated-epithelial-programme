@@ -1,15 +1,11 @@
 cff-version: 1.2.0
-message: "If you use this repository, please cite it as below."
+message: "If you use this corrected repository release, cite the versioned Zenodo record after publication."
 type: software
-title: "Cross-cohort definition and multi-omic characterization of a six-gene vasculogenic-mimicry-associated epithelial programme in intrahepatic cholangiocarcinoma"
-version: 1.0.5
-date-released: 2026-09-03
-abstract: "Auditable manuscript assets for the cross-cohort definition and multi-omic characterization of a six-gene vasculogenic-mimicry-associated epithelial programme in intrahepatic cholangiocarcinoma."
+title: "Cross-cohort definition and multi-omic characterization of a six-gene VM-related epithelial transcriptional programme in intrahepatic cholangiocarcinoma"
+version: 1.1.0
+date-released: 2026-11-16
+abstract: "Corrected auditable manuscript assets and source tables generated from the complete six-gene raw-UMI reconstruction used as the Reviewer 3 single source of truth."
 repository-code: "https://github.com/zbwcc00/icca-vm-associated-epithelial-programme"
-identifiers:
-  - type: doi
-    value: "10.5281/zenodo.22258978"
-    description: "Zenodo version DOI for release v1.0.5"
 license: MIT
 authors:
   - family-names: Zheng

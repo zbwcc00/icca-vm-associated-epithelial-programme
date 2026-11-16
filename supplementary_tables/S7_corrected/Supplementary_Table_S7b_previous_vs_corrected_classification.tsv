@@ -1,0 +1,5 @@
+cohort	classification	omitted_anchor	n_cells	n_high	high_fraction	n_patients	n_patients_with_high	jaccard_vs_corrected_full6	cohen_kappa_vs_corrected_full6	n_gained_vs_corrected_full6	n_lost_vs_corrected_full6
+GSE138709	full6	none	12447	1331	0.1069333976058488	4	4	1.0	1.0	0	0
+GSE138709	previous_reported_label	none	12447	435	0.03494818028440588	4	4	0.1804812834224599	0.26717065659493544	165	1061
+GSE125449	full6	none	1888	277	0.14671610169491525	10	9	1.0	1.0	0	0
+GSE125449	previous_reported_label	none	1888	281	0.14883474576271186	10	9	0.847682119205298	0.9032689930164953	25	21

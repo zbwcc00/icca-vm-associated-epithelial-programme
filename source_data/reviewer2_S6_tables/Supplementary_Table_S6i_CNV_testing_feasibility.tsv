@@ -1,0 +1,2 @@
+testing_family	n_tests	multiplicity_method	n_FDR_positive	arm_segment_status	reason
+genome-wide nonconstant gene-level discrete CNV	22845	Benjamini-Hochberg across all genes	0	not estimable	retained public inputs lack sample-level arm or segment calls

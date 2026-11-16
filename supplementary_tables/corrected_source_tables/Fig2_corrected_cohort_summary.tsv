@@ -1,0 +1,4 @@
+cohort	patients	malignant_cells	high_score_q80_cells	high_score_q80_fraction	patients_with_high_score
+GSE138709	4	12447	1331	0.1069333976058488	4
+GSE181878	1	2840	220	0.07746478873239436	1
+GSE125449	10	1888	277	0.14671610169491525	9

@@ -1,0 +1,4 @@
+comparison	set_a	set_b	intersection	union	jaccard
+q80_vs_q90_corrected	268	244	233	279	0.8351254480286738
+old_vs_corrected_q80	249	268	218	299	0.7290969899665551
+old_vs_corrected_q90	249	244	197	296	0.6655405405405406

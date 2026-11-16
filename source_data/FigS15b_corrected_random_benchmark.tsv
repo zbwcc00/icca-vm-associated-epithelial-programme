@@ -1,0 +1,3 @@
+cohort	n_paired_patients	n_random_sets	six_anchor_paired_Hedges_g	null_mean	null_sd	empirical_two_sided_p	interpretation
+GSE138709	4	1000	1.7728604454523096	-0.4288509752892957	0.48620227042988107	0.01098901098901099	Internal calibration only because the corrected labels are anchor-defined.
+GSE125449	9	1000	1.3270695840308462	-1.0188443785642674	0.3429085919221696	0.15484515484515485	Internal calibration only because the corrected labels are anchor-defined.

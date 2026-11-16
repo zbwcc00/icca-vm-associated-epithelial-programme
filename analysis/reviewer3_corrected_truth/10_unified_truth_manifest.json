@@ -1,0 +1,58 @@
+{
+  "source_of_truth": "Reviewer 3 complete six-gene raw-UMI reconstruction and corrected q80/q90 analyses",
+  "truth_root": "D:\\第六篇大论文\\revision_round1_reviewer3_20261116",
+  "package_root": "D:\\第六篇大论文\\submission_package\\discover_oncology_analysis_20261116_unified_truth_final",
+  "corrected_secact_funnel": {
+    "q80": [
+      657,
+      268,
+      58,
+      26
+    ],
+    "q90": [
+      657,
+      244,
+      56,
+      26
+    ]
+  },
+  "corrected_bulk": {
+    "fully_evaluable_groups": 24,
+    "positive_all_three": 12,
+    "same_direction_all_three": 17,
+    "cohort_evaluable": {
+      "GSE32225": 25,
+      "GSE107943": 26,
+      "GSE26566": 24
+    }
+  },
+  "pseudobulk_eligibility": {
+    "GSE138709": {
+      "q80": "4 libraries/3 patients",
+      "q90": "4 libraries/3 patients"
+    },
+    "GSE125449": {
+      "q80": "5 libraries/5 patients",
+      "q90": "4 libraries/4 patients"
+    }
+  },
+  "superseded": {
+    "old_shortlists": [
+      "657→249→66→30",
+      "final-30",
+      "complete 28-group audit"
+    ],
+    "old_results": [
+      "old random P values",
+      "old final-30 adjustment values",
+      "old 28-group bulk counts",
+      "old endothelial-exclusion counts"
+    ]
+  },
+  "boundaries": [
+    "No morphology/perfusion claim",
+    "No secretion or communication claim",
+    "No independent clinical validation",
+    "Bulk analyses are directional covariance audits"
+  ]
+}

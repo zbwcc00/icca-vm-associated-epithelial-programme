@@ -1,0 +1,7 @@
+cohort	score_1	score_2	n_cells	spearman_rho	p_value
+GSE138709	module_full6	ucell_full6	12447	0.8333054878967683	0.0
+GSE138709	module_full6	aucell_full6	12447	0.571588679352818	0.0
+GSE138709	ucell_full6	aucell_full6	12447	0.6874778944088675	0.0
+GSE125449	module_full6	ucell_full6	1888	0.817604619557091	0.0
+GSE125449	module_full6	aucell_full6	1888	0.7263764905009187	1.80799699709123e-309
+GSE125449	ucell_full6	aucell_full6	1888	0.8790458960300364	0.0
